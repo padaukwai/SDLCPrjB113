@@ -1,4 +1,3 @@
-package basic.com;
 
 public class HelloWorld {
 
@@ -8,3 +7,4 @@ public class HelloWorld {
 	}
 
 }
+
